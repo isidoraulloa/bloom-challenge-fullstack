@@ -1,5 +1,6 @@
 import { Router } from "express";
 import { getBrandById, listBrands } from "./brand";
+import { listFaq } from "./faq";
 
 const router = Router();
 
@@ -8,5 +9,5 @@ router.get("/", (req, res) => {
 });
 router.get("/brands", listBrands);
 router.get("/brands/:id", getBrandById);
-
+router.get("/faq", listFaq);
 export default router;
