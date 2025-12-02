@@ -40,8 +40,7 @@ export default function RootLayout({
         {children}
       <div className="text-left text-xs">
           <p>Isidora Ulloa
-          <br />+56 9 8712 7469
-          <br />isidora.ulloa@ug.uchile.cl</p>
+          <br />isidora.ulloa(arroba)ug.uchile.cl</p>
         </div>
       </body>
     </html>
