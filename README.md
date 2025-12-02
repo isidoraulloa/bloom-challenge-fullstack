@@ -59,9 +59,8 @@ Además de los provistos por el template, se crearon los siguientes componentes:
 
 ## Conclusión
 
-Gracias nuevamente por dejarme se parte de este proceso. Estoy atenta a cualquier duda a través de mi correo, teléfono o Telegram.
+Gracias nuevamente por dejarme se parte de este proceso. Estoy atenta a cualquier duda a través de mi correo.
 
 Isidora Ulloa
-isidora.ulloa@ug.uchile.cl
-+56 9 8712 7469
-@shisidora
+isidora.ulloa(at)ug.uchile.cl
+
