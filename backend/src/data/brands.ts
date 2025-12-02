@@ -8,4 +8,19 @@ export default [
     name: "Karyn Coo",
     url: "https://www.karyncoo.com",
   },
+  {
+    id: "andesgear",
+    name: "Andesgear",
+    url: "https://www.andesgear.cl/",
+  },
+  {
+    id: "roda",
+    name: "Roda",
+    url: "https://roda.cl/",
+  },
+  {
+    id: "kokoro",
+    name: "Kokoro",
+    url: "https://www.kokoro.cl/",
+  },
 ];
