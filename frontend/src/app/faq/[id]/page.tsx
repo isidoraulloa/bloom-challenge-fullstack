@@ -1,10 +1,10 @@
 "use client";
-import { Home } from "./home";
+import { BrandByID } from "./[id]";
 
 export default function Page() {
   return (
     <main>
-      <Home />
+      <BrandByID />
     </main>
   );
 }
